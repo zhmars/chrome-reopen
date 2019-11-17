@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Reopen",
+    "description": "Reopen"
+  },
+  "appDesc": {
+    "message": "Reopen Closed Tab",
+    "description": "Reopen Closed Tab"
+  }
+}
